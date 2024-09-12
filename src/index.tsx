@@ -6,8 +6,6 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import { routes } from './routes';
 import configureStore from "./store";
 
-
-
 import './styles.scss';
 
 require("./favicon.ico");
